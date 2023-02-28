@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<oidr:OidRepository xmlns:oidr="urn:oid:1.3.6.1.4.1.46979.2.1">
+  <oidr:Oid identifier="1" name="iso">
+    <oidr:PublicData>SW50ZXJuYXRpb25hbCBPcmdhbml6YXRpb24gZm9yIFN0YW5kYXJkaXphdGlvbiAoSVNPKQ==</oidr:PublicData>
+    <oidr:Oid identifier="2" name="member-body">
+      <oidr:PublicData>SVNPIE1lbWJlciBCb2RpZXM=</oidr:PublicData>
+      <oidr:Oid identifier="36" name="au">
+        <oidr:PublicData>QXVzdHJhbGlh</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="40" name="at">
+        <oidr:PublicData>QXVzdHJpYQ==</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="56" name="be">
+        <oidr:PublicData>QmVsZ2l1bQ==</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="156" name="cn">
+        <oidr:PublicData>UGVvcGxlJ3MgUmVwdWJsaWMgb2YgQ2hpbmE=</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="203" name="cz">
+        <oidr:PublicData>Q3plY2ggUmVwdWJsaWM=</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="208" name="dk">
+        <oidr:PublicData>RGVubWFyaw==</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="246" name="fi">
+        <oidr:PublicData>RmlubGFuZA==</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="250" name="fr">
+        <oidr:PublicData>RnJhbmNl</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="276" name="de">
+        <oidr:PublicData>R2VybWFueQ==</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="280" name="bundesrepublik-deutschland">
+        <oidr:PublicData>QnVuZGVzcmVwdWJsaWsgRGV1dHNjaGxhbmQNCgkNCkFjY29yZGluZyB0byBEZXV0c2NoZSBJbmR1c3RyaWFsIE5vcm0gKERJTikgNjYzMzQsIGZpZ3VyZSAxIChub3RlIDEpLCB1bnRpbCB0aGUgMTk4OCBlZGl0aW9uIG9mIElTTyAzMTY2LCAyODAgd2FzIHRoZSBjb3VudHJ5IGNvZGUgZm9yIEJ1bmRlc3JlcHVibGlrIERldXRzY2hsYW5kLiBEdWUgdG8gdGhlIHVuaWZpY2F0aW9uIG9mIHRoZSB0d28gR2VybWFuIHN0YXRlcywgdGhlIG51bWVyaWNhbCBjb3VudHJ5IGNvZGUgZm9yIEdlcm1hbnkgd2FzIGNvbnZlcnRlZCB0byAyNzYuIDI4MCBhcyBhbiBleGNlcHRpb24gZXhpc3RzIG9ubHkgZm9yIHRob3NlIGNhc2VzIHdoZXJlIDI4MCBpcyBpbmNvcnBvcmF0ZWQgaW4gaGFyZHdhcmUgb3IgdGhlIGNvZGUgY2Fubm90IGJlIGNoYW5nZWQgd2l0aG91dCBzaWduaWZpY2FudCBoYXJkd2FyZSBjaGFuZ2VzLiBTdWNoIGV4ZW1wdGlvbnMgYXJlIG5vdCBkZXNjcmliZWQgaW4gRElOIDY2MzM0Lg==</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="300" name="gr">
+        <oidr:PublicData>R3JlZWNl</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="344" name="hk">
+        <oidr:PublicData>SG9uZyBLb25nIFNwZWNpYWwgQWRtaW5pc3RyYXRpdmUgUmVnaW9uIG9mIENoaW5h</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="372" name="ie">
+        <oidr:PublicData>SXJlbGFuZA==</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="392" name="jp">
+        <oidr:PublicData>SmFwYW4=</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="398" name="kz">
+        <oidr:PublicData>S2F6YWtoc3Rhbg==</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="410" name="kr">
+        <oidr:PublicData>UmVwdWJsaWMgb2YgS29yZWE=</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="498" name="md">
+        <oidr:PublicData>TW9sZG92YSAoUmVwdWJsaWMgb2Yp</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="528" name="nl">
+        <oidr:PublicData>TmV0aGVybGFuZHM=</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="566" name="ng">
+        <oidr:PublicData>TmlnZXJpYQ==</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="578" name="no">
+        <oidr:PublicData>Tm9yd2F5</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="616" name="pl">
+        <oidr:PublicData>UG9sYW5k</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="643" name="ru">
+        <oidr:PublicData>UnVzc2lhbiBGZWRlcmF0aW9u</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="702" name="sg">
+        <oidr:PublicData>U2luZ2Fwb3Jl</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="704" name="vn">
+        <oidr:PublicData>VmlldG5hbQ==</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="752" name="se">
+        <oidr:PublicData>U3dlZGVu</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="804" name="ua">
+        <oidr:PublicData>VWtyYWluZQ==</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="826" name="gb">
+        <oidr:PublicData>VW5pdGVkIEtpbmdkb20=</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="840" name="us">
+        <oidr:PublicData>VW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNh</oidr:PublicData>
+        <oidr:Oid identifier="113556" name="microsoft">
+          <oidr:PublicData>TWljcm9zb2Z0LCBJbmMu</oidr:PublicData>
+          <oidr:Oid identifier="1" name="active-directory">
+            <oidr:PublicData>TWljcm9zb2Z0IEFjdGl2ZSBEaXJlY3Rvcnk=</oidr:PublicData>
+            <oidr:Oid identifier="2" name="attributes">
+              <oidr:PublicData>QXR0cmlidXRlIHNjaGVtYSBvYmplY3Rz</oidr:PublicData>
+            </oidr:Oid>
+            <oidr:Oid identifier="3" name="classes">
+              <oidr:PublicData>Q2xhc3Mgc2NoZW1hIG9iamVjdHM=</oidr:PublicData>
+            </oidr:Oid>
+            <oidr:Oid identifier="4" name="attributes">
+              <oidr:PublicData>QXR0cmlidXRlIHNjaGVtYSBvYmplY3Rz</oidr:PublicData>
+            </oidr:Oid>
+            <oidr:Oid identifier="5" name="classes">
+              <oidr:PublicData>Q2xhc3Mgc2NoZW1hIG9iamVjdHM=</oidr:PublicData>
+            </oidr:Oid>
+            <oidr:Oid identifier="6" name="schemas">
+              <oidr:PublicData>TWljcm9zb2Z0IEFjdGl2ZSBEaXJlY3Rvcnkgc2NoZW1hcw==</oidr:PublicData>
+            </oidr:Oid>
+          </oidr:Oid>
+        </oidr:Oid>
+      </oidr:Oid>
+      <oidr:Oid identifier="860" name="uz">
+        <oidr:PublicData>VXpiZWtpc3Rhbg==</oidr:PublicData>
+      </oidr:Oid>
+      <oidr:Oid identifier="862" name="ve">
+        <oidr:PublicData>VmVuZXp1ZWxh</oidr:PublicData>
+      </oidr:Oid>
+    </oidr:Oid>
+    <oidr:Oid identifier="3" name="identified-organization">
+      <oidr:PublicData>T3JnYW5pemF0aW9uIGlkZW50aWZpY2F0aW9uIHNjaGVtZXMgcmVnaXN0ZXJlZCBhY2NvcmRpbmcgdG8gSVNPL0lFQyA2NTIzLTI=</oidr:PublicData>
+      <oidr:Oid identifier="6" name="dod">
+        <oidr:PublicData>VW5pdGVkIFN0YXRlcyBEZXBhcnRtZW50IG9mIERlZmVuc2UgKERvRCk=</oidr:PublicData>
+        <oidr:Oid identifier="1" name="internet">
+          <oidr:PublicData>SW50ZXJuZXQ=</oidr:PublicData>
+          <oidr:Oid identifier="4" name="private">
+            <oidr:PublicData>UHJpdmF0ZSBwcm9qZWN0cw==</oidr:PublicData>
+            <oidr:Oid identifier="1" name="enterprise">
+              <oidr:PublicData>UHJpdmF0ZSBlbnRlcnByaXNlcw==</oidr:PublicData>
+              <oidr:Oid identifier="9" name="cisco">
+                <oidr:PublicData>Q2lzY28gU3lzdGVtcywgSW5jLg==</oidr:PublicData>
+              </oidr:Oid>
+              <oidr:Oid identifier="20" name="mit">
+                <oidr:PublicData>TWFzc2FjaHVzZXR0cyBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neSAoTUlUKQ==</oidr:PublicData>
+              </oidr:Oid>
+              <oidr:Oid identifier="42" name="sun">
+                <oidr:PublicData>U3VuIE1pY3Jvc3lzdGVtcw==</oidr:PublicData>
+              </oidr:Oid>
+              <oidr:Oid identifier="71" name="nasa">
+                <oidr:PublicData>TkFTQQ==</oidr:PublicData>
+              </oidr:Oid>
+              <oidr:Oid identifier="96" name="cern">
+                <oidr:PublicData>Q0VSTg==</oidr:PublicData>
+              </oidr:Oid>
+            </oidr:Oid>
+          </oidr:Oid>
+        </oidr:Oid>
+      </oidr:Oid>
+    </oidr:Oid>
+  </oidr:Oid>
+</oidr:OidRepository>
